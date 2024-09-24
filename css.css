@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+  line-height: 10px;
+}
+.chill {
+  position: absolute;
+  left: 82%;
+}
+
+.kText {
+  position: relative;
+  color: purple;
+  left: 35%;
+}
